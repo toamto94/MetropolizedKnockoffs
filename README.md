@@ -4,8 +4,6 @@
 
 #### pip install git+https://github.com/toamto94/MetropolizedKnockoffs.git
 
-# Metropolized Knockoff Sampling
-
 
 ```python
 from MetropolizedKnockoffs.MetropolizedKnockoffs import Ising_Knockoff_Sampler, Gaussian_Knockoff_Sampler
