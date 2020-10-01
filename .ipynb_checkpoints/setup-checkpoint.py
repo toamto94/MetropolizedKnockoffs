@@ -7,5 +7,5 @@ setup(name='MetropolizedKnockoffs',
       author_email='tom_mueller94@gmx.de',
       url='https://github.com/toamto94/MetropolizedKnockoffs',
       packages=['MetropolizedKnockoffs'],
-      install_requires=['pandas==1.0.1', 'numpy==1.18.1', 'scipy==1.4.1']
+      install_requires=['pandas==1.0.1', 'numpy==1.18.1']
      )
