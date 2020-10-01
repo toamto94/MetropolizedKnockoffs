@@ -21,7 +21,7 @@ Z = np.array(pd.read_csv("data\\isingdata.csv"))
 Theta = np.array(pd.read_csv("data\\Theta.csv"))
 ```
 
-### Visualize $\Theta$ via heatmap
+### Visualize Theta via heatmap
 
 
 ```python
